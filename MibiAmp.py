@@ -71,7 +71,7 @@ def about():
     infotext = Tk.Text(aboutw)
     infotext.pack(fill = "both", expand = True)
     infotext.delete(1.0, Tk.END)
-    infotext.insert(Tk.END, "MibiAmp v.0.1\n=============\nby Mibi88\nCodename : v4\nLicense : GNU GPL v2 or later")
+    infotext.insert(Tk.END, "MibiAmp v.0.2\n=============\nby Mibi88\nCodename : v4\nLicense : GNU GPL v2 or later")
 #====
 
 #CMDS
