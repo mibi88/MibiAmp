@@ -34,6 +34,7 @@ pbar = Tk.Scale(main, from_ = 0, to = 0, orient = Tk.HORIZONTAL, showvalue = Fal
 pbar.set(0)
 pbar.pack(fill = "x")
 
+
 pygame.mixer.init()
 #DEFS
 def setposition():
